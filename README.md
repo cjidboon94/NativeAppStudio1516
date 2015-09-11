@@ -18,5 +18,6 @@ The assignment for Week 1 "Learn a Language" has not been done due to already ha
 ##Second App: Mr Potato Head.
 ### Instructions:
 - Click the checkboxes to make parts and disappear.
-### Features
+
+### Features:
 - It has a landscape mode 
