@@ -19,71 +19,82 @@
             android:layout_height="match_parent"
             android:id="@+id/imageBody"
             android:src="@drawable/body"
-            android:contentDescription="@string/body"/>
+            android:contentDescription="@string/body"
+            android:visibility="invisible"/>
         <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/imageEars"
         android:src="@drawable/ears"
-        android:contentDescription="@string/ears"/>
+        android:contentDescription="@string/ears"
+            android:visibility="invisible"/>
 
         <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/imageEyes"
         android:src="@drawable/eyes"
-        android:contentDescription="@string/eyes"/>
+        android:contentDescription="@string/eyes"
+            android:visibility="invisible"/>
 
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/imageArms"
             android:src="@drawable/arms"
-            android:contentDescription="@string/arms"/>
+            android:contentDescription="@string/arms"
+            android:visibility="invisible"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent" 
             android:id="@+id/imageHat"
             android:src="@drawable/hat"
-            android:contentDescription="@string/hat"/>
+            android:contentDescription="@string/hat"
+            android:visibility="invisible"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/imageMouth"
             android:src="@drawable/mouth"
-            android:contentDescription="@string/mouth"/>
+            android:contentDescription="@string/mouth"
+            android:visibility="invisible"/>
         
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent" 
             android:id="@+id/imageStache"
             android:src="@drawable/mustache"
-            android:contentDescription="@string/stache"/>
+            android:contentDescription="@string/stache"
+            android:visibility="invisible"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent" 
             android:id="@+id/imageShoes"
             android:src="@drawable/shoes"
-            android:contentDescription="@string/shoes"/>
+            android:contentDescription="@string/shoes"
+            android:visibility="invisible"/>
         
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent" 
             android:id="@+id/imageBrows"
             android:src="@drawable/eyebrows"
-            android:contentDescription="@string/brows"/>
+            android:contentDescription="@string/brows"
+            android:visibility="invisible"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent" 
             android:id="@+id/imageGlasses"
             android:src="@drawable/glasses"
-            android:contentDescription="@string/glasses"/>
+            android:contentDescription="@string/glasses"
+            android:visibility="invisible"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent" 
             android:id="@+id/imageNose"
             android:src="@drawable/nose"
-            android:contentDescription="@string/nose"/>
+            android:contentDescription="@string/nose"
+            android:visibility="invisible"/>
     </FrameLayout>
 
     <GridLayout
